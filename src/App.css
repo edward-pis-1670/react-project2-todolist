@@ -52,3 +52,7 @@
   float: right;
   cursor: pointer;
 }
+
+span {
+  cursor: pointer;
+}
